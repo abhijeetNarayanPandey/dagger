@@ -1,4 +1,4 @@
-package com.cheezycode.daggermvvm
+package com.nasacode.daggermvvm
 
 import org.junit.Test
 
